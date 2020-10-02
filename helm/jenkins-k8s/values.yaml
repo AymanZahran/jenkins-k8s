@@ -7,7 +7,7 @@ initContainerImage: "alpine:3.10.2"
 replicaCount: 1
 imagePullSecrets:
 image:
-  repository: anuphnu/jenkins
+  repository: aymanzahran/jenkins-master
   tag: v3
   pullPolicy: Always
 
